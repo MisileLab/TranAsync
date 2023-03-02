@@ -21,6 +21,7 @@ dependencies {
     implementation("io.ktor:ktor-client-core:2.2.3")
     implementation("io.ktor:ktor-client-cio:2.2.3")
     implementation("io.github.monun:kommand-api:3.1.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
 }
 
 project.extra.set("packageName", name.replace("-", ""))
