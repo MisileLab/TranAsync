@@ -1,6 +1,9 @@
-name: sample
+name: TranAsync
 version: 0.0.1
-main: xyz.misilelaboratory
+main: xyz.misilelaboratory.TranAsync
 api-version: 1.19
 libraries:
-  - org.jetbrains.kotlin:kotlin-stdlib:1.7.21
+  - org.jetbrains.kotlin:kotlin-stdlib:1.8.10
+  - io.ktor:ktor-client-core:2.2.3
+  - io.github.monun:kommand-core:3.1.2
+  - io.ktor:ktor-client-cio:2.2.3

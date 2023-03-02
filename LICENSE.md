@@ -1,6 +1,6 @@
 # Misilelab license v1.6
 
-Author information : Sample by MisileLaboratory
+Author information : TranAsync by MisileLaboratory
 
 ## derivative works condition
 
