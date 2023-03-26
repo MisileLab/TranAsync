@@ -20,7 +20,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.8.10")
     implementation("io.ktor:ktor-client-core:2.2.4")
     implementation("io.ktor:ktor-client-cio:2.2.4")
-    implementation("io.github.monun:kommand-api:3.1.2")
+    implementation("io.github.monun:kommand-api:3.1.3")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
 }
 
