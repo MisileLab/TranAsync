@@ -17,7 +17,7 @@ repositories {
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.19.2-R0.1-SNAPSHOT")
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.8.10")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.8.20")
     implementation("io.ktor:ktor-client-core:2.2.4")
     implementation("io.ktor:ktor-client-cio:2.2.4")
     implementation("io.github.monun:kommand-api:3.1.3")
